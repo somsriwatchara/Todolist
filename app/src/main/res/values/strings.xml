@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Todolist</string>
+    <string name="facebook_app_id">572621486538308</string>
+    <string name="fb_login_protocol_scheme">fb572621486538308</string>
+
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+
+    <string name="no_location_detected">
+        No location detected. Make sure location is enabled on the device.
+    </string>
+
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.
+    </string>
+    <string name="settings">Settings</string>
+
+</resources>
